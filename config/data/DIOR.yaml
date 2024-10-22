@@ -1,0 +1,31 @@
+path: ../datasets/dior_yolo # dataset
+train: images/train # train images
+val: images/val # val images
+test: images/test # test images
+
+# Classes
+names:
+  0: airplane
+  1: airport
+  2: baseball field
+  3: basketball-court
+  4: bridge
+  5: chimney
+  6: dam
+  7: Expressway-Service-area
+  8: Expressway-toll-station
+  9: goldfield
+  10: groundbreaking
+  11: harbor
+  12: overpass
+  13: ship
+  14: stadium
+  15: storage-tank
+  16: tennis-court
+  17: trainstation
+  18: vehicle
+  19: windmill
+
+
+
+

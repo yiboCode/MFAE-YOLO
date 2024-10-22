@@ -1,0 +1,13 @@
+path: ../datasets/RSOD # dataset
+train: train/images # train
+val: val/images # val images
+test: test/images # test images
+
+# Classes
+names:
+  0: aircraft
+  1: oiltank
+  2: overpass
+  3: playground
+
+

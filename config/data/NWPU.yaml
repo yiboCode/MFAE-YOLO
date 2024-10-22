@@ -1,0 +1,23 @@
+path: ../datasets/NWPU_VHR_10_YOLO # dataset
+train: train/images # train images
+val: valid/images # val images
+test: test/images # test images
+
+# Classes
+names:
+  0: none
+  1: airplane
+  2: ship
+  3: storage tank
+  4: baseball diamond
+  5: tennis court
+  6: basketball court
+  7: ground track field
+  8: harbor
+  9: bridge
+  10: vehicle
+
+
+
+
+
