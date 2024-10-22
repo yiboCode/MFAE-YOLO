@@ -1,0 +1,1 @@
+模型参数(fused)：285layers,2695976parameters,0gradients,8.2335744GFLOPs

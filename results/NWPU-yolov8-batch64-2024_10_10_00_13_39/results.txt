@@ -1,0 +1,12 @@
+Class,Images,Instances,Box(P),Box(R),Box(mAP50),Box(mAP50-95)
+                   all        130        632      0.892      0.857       0.92      0.561
+              airplane        130        118      0.992      0.966      0.994      0.622
+                  ship        130         39      0.905      0.872      0.963      0.582
+          storage tank        130         83      0.942      0.819      0.895      0.484
+      baseball diamond        130         70      0.955      0.986      0.987      0.709
+          tennis court        130        138      0.958      0.877      0.951      0.563
+      basketball court        130         35      0.808        0.6      0.766      0.492
+    ground track field        130         40      0.922      0.881      0.953      0.727
+                harbor        130         20       0.73        0.9      0.926      0.519
+                bridge        130         21      0.947      0.844      0.887      0.339
+               vehicle        130         68      0.757      0.827      0.882      0.566
