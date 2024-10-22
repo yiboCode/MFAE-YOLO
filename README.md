@@ -5,11 +5,11 @@ The content is keep updating.
 ## Start
 Firstly, you should prepare the dataset for training or testing. 
 Follow the next steps for training or testing.
-1. Prepare the datasets as instructed in the [Dateset Preparing](#dateset_section).
+1. Prepare the datasets as instructed in the [Dataset Preparing](#dataset_section).
 2. If you want test or use our pretrained MFAE-YOLO, please download and prepare the .pt files as instructed in the [Pretrained Weights](#weights_section).
 3. Now, you can run the train.py file to start training.
 
-## Dateset Preparing <a id="dateset_section"></a>
+## Dataset Preparing <a id="dataset_section"></a>
 You can download our preproccessed dataset from the follow link:
 https://pan.baidu.com/s/1V5zHcFK3lMPcVBuHgmPPgg?pwd=6vug Extracted code: 6vug
 
