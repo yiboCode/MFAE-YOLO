@@ -1,6 +1,0 @@
-Class,Images,Instances,Box(P),Box(R),Box(mAP50),Box(mAP50-95)
-                   all        188       1641       0.89      0.892      0.921      0.637
-              aircraft        188       1217      0.942      0.919      0.964      0.634
-               oiltank        188        362      0.967      0.956      0.979      0.809
-              overpass        188         33      0.747      0.715      0.763      0.333
-            playground        188         29      0.904      0.978      0.979      0.773
